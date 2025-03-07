@@ -31,6 +31,10 @@ auth_project/
 ## Installation
 
 1. Clonez le dépôt
+```bash
+ git clone https://github.com/Phoenixe12/jwt-auth-django.git
+```
+
 2. Créez un environnement virtuel :
 ```bash
 python -m venv venv
